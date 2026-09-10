@@ -15,9 +15,10 @@ This project focuses on data analysis, visualization, and machine learning using
 
 ## Project Files
 
-- `v2.zip/` – Data analysis and Streamlit code
 - `Air Quality Analysis Presentation.pdf` – Project presentation
 - 'requirements' - Project requirements
+- 'train_model' - python code
+- 'app' - streamlit
 
 ## Project Workflow
 
